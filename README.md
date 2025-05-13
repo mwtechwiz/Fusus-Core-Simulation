@@ -1,4 +1,6 @@
 # FususCORE Simulation
+![Fosuscorelab1](https://github.com/mwtechwiz/Fusus-Core-Simulation/blob/main/lexipol.brightspotcdn.jpeg)
+
 This lab simulates a simplified FususCORE environment using Linux command-line tools. It helps demonstrate my technical support and networking skills relevant to roles involving camera systems, video streams, and Linux-based troubleshooting like those at Axon (Fusus).
 
 ## Objectives
