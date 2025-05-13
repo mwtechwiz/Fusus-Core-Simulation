@@ -29,4 +29,7 @@ This lab simulates a simplified FususCORE environment using Linux command-line t
 ```bash
 sudo apt update
 sudo apt install -y git curl net-tools iputils-ping iproute2 tcpdump ffmpeg nginx dos2unix
-![image]([https://github.com/mwtechwiz/Large-Network-Configuration/blob/main/PT1.jpg](https://github.com/mwtechwiz/Fusus-Core-Simulation/blob/main/Fosuscorelab1.png)
+/
+
+![Fosuscorelab1](https://github.com/user-attachments/assets/6de0a411-1b55-42f9-afb0-8fe7d14e6d73)
+
