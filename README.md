@@ -20,7 +20,8 @@ This lab simulates a simplified FususCORE environment using Linux command-line t
 - tcpdump – traffic inspection
 - Git & GitHub – version control and publishing
 
----
+## Operating System
+-Linux (Mint)
 
 ## Setup Instructions
 
