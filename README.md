@@ -1,5 +1,5 @@
 # Fusus-Core-Simulation
-This lab simulates a simplified FususCORE environment using Linux command-line tools. It demonstrates technical support and networking skills relevant to roles involving camera systems, video streams, and Linux-based troubleshooting — like those at Axon (Fusus).
+This lab simulates a simplified FususCORE environment using Linux command-line tools. It helps demonstrate my technical support and networking skills relevant to roles involving camera systems, video streams, and Linux-based troubleshooting like those at Axon (Fusus).
 
 ## Objectives
 
