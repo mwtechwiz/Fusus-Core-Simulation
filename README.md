@@ -24,12 +24,11 @@ This lab simulates a simplified FususCORE environment using Linux command-line t
 
 ## Setup Instructions
 
-### 1. Install required tools
+### 1. Install required tools 
+![Fosuscorelab1](https://github.com/user-attachments/assets/6de0a411-1b55-42f9-afb0-8fe7d14e6d73)
+
 
 ```bash
 sudo apt update
 sudo apt install -y git curl net-tools iputils-ping iproute2 tcpdump ffmpeg nginx dos2unix
-/
-
-![Fosuscorelab1](https://github.com/user-attachments/assets/6de0a411-1b55-42f9-afb0-8fe7d14e6d73)
 
