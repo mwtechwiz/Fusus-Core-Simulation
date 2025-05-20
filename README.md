@@ -3,7 +3,7 @@
 ![Fosuscorelab1](https://github.com/mwtechwiz/Fusus-Core-Simulation/blob/main/lexipol.brightspotcdn.jpeg)
 
 
-This lab simulates a simplified FususCORE environment using Linux command-line tools. It helps demonstrate my technical support and networking skills relevant to roles involving camera systems, video streams, and Linux-based troubleshooting like those at Axon (Fusus).
+This lab simulates a simplified FususCORE environment using Linux command-line tools. It helps demonstrate my technical support and networking skills relevant to camera systems, video streams, and Linux-based troubleshooting like those at Axon (Fusus).
 
 ## Objectives
 
@@ -22,7 +22,7 @@ This lab simulates a simplified FususCORE environment using Linux command-line t
 - ss / netstat – check open ports
 - iproute2 – interface and routing
 - tcpdump – traffic inspection
-- Git & GitHub – version control and publishing
+- Git & GitHub – publishing
 
 ## Operating System
 -Linux (Mint)
