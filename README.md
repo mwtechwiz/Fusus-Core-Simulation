@@ -63,6 +63,11 @@ This script uses `ffmpeg` to simulate a looping camera video stream by continuou
 ```bash
 nano start_stream.sh
 ```
+
+```bash
+echo "[INFO] Starting simulated camera stream..."
+ffmpeg -re -stream_loop -1 -i charlie.mp4 -f mpegts output.ts
+```
 ![Fosuscorelab1](https://github.com/mwtechwiz/Fusus-Core-Simulation/blob/main/Fususcorelab5.png)
 
 ## Make the script executable
